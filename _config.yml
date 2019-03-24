@@ -16,12 +16,15 @@
 title: Gus De la Mora's Portfolio
 email: gusdlm@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is made and maintaned to show useful programming skills as well
+  This blog is made and maintaned to show useful programming skills as well
   as proof of Web Developer knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gusdlm
 github_username:  gusdlm
+instagram_username: gusdlm
+youtube_username: gustavodelamora
+facebook_username: gusdlm
 
 # Build settings
 markdown: kramdown
