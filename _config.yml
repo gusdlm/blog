@@ -25,7 +25,7 @@ github_username:  gusdlm
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
