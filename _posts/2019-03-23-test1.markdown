@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Bienvenido a Jekyll! 2"
-date:   2019-03-23 21:36:02 -0400
-categories: jekyll update
----
-Esta es la primer prueba de un blog.
-
-Se siente extraño. Seguiré intentando...
